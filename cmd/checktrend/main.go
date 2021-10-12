@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ecc1/nightscout"
+	"github.com/glcmts/nightscout"
 )
 
 var (

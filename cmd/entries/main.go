@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/ecc1/nightscout"
+	"github.com/glcmts/nightscout"
 )
 
 func main() {

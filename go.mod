@@ -1,3 +1,3 @@
-module github.com/ecc1/nightscout
+module github.com/glcmts/nightscout
 
 go 1.13
